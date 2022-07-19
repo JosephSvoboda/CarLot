@@ -1,0 +1,14 @@
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.exe
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.deps.json
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.runtimeconfig.json
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.runtimeconfig.dev.json
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp3.1\CarLotSimulator.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.dll
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\Classes2\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp3.1\CarLotSimulator.genruntimeconfig.cache
